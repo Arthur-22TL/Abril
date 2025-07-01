@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: rgb(20, 0, 134);
+    text-align: center;
+}
+ul {
+    background-color: black;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 300px;
+    margin: 0 auto;
+}
+li {
+    margin: 10px 0;
+    color: cornflowerblue;
+}

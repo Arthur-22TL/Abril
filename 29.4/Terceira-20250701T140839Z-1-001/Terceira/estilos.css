@@ -1,0 +1,29 @@
+body {
+    background: #fdf6e3;
+    color: crimson;
+    font-family: sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    overflow-x: hidden;
+    padding: 0;
+}
+header,
+main {
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 3rem 1rem;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: black;
+    text-align: center;
+    line-height: var(--line-heigth);
+}
+p {
+    margin: 0.75rem 0;
+    padding: 0;
+}
